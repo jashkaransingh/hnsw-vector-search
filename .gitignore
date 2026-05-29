@@ -1,0 +1,10 @@
+build/
+*.o
+*.obj
+*.bin
+*.idx
+.DS_Store
+.vscode/
+.idea/
+*.swp
+# keep results/*.csv and results/*.png tracked
